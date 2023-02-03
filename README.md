@@ -27,6 +27,7 @@ test-mails: This is the dataset used for testing the accuracy of the model.
 The datasets are not provided with the code and need to be added by the user.
 
 
+
 Acknowledgement
 This code is an implementation of Naive Bayes algorithm for detecting spam emails. No external code has been used.
 
